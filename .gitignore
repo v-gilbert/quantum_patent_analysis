@@ -129,3 +129,6 @@ __pycache__/
 # zip and txt files
 *.txt
 *.zip
+
+# data directory
+data/*
